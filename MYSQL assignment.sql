@@ -1,3 +1,5 @@
+// MYSQL Assignment 
+
 CREATE DATABASE bankingDB;
 USE bankingDB;
 CREATE TABLE customers (customer_id INT PRIMARY KEY, name VARCHAR(50), city VARCHAR(50));
